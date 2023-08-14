@@ -1,0 +1,17 @@
+
+[
+    {
+        "sub_cat_id":1,
+        "cat_id":1,
+        "sub_cat_name":"Fresh vegetables",
+        "sub_cat_image":"https://tiimg.tistatic.com/fp/1/005/764/fresh-indian-vegetables-012.jpg"
+    },
+    {
+        "sub_cat_id":2,
+        "cat_id":1,
+        "sub_cat_name":"Fresh Fruits",
+        "sub_cat_image":"https://thumbs.dreamstime.com/b/fruit-2999796.jpg"
+    }
+   
+
+]

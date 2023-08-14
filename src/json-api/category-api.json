@@ -1,0 +1,45 @@
+
+[
+    {
+        "cat_id":1,
+        "cat_name":"Vegtables-and-Fruits",
+        "cat_image":"https://www.lalpathlabs.com/blog/wp-content/uploads/2019/01/Fruits-and-Vegetables.jpg"
+    },
+    {
+        "cat_id":2,
+        "cat_name":"Dairy-and-Breakfast",
+        "cat_image":"https://www.bigbasket.com/media/uploads/p/l/1201428_3-bb-combo-quaker-oats-plus-multigrain-advantage-600g-amul-taaza-toned-milk-1l.jpg"
+    },
+    {
+        "cat_id":3,
+        "cat_name":"Munchies",
+        "cat_image":"https://target.scene7.com/is/image/Target/GUEST_bcd59b40-b890-4e6b-85a1-1831623cafb0"
+    },
+    {
+        "cat_id":4,
+        "cat_name":"Cold-Drinks-and-Juices",
+        "cat_image":"https://osiamart.com/image/cache/catalog/cold-drinks/sub%20category/FRUIT%20DRINK%20%20JUICE-200x200.jpg"
+    },
+    {
+        "cat_id":5,
+        "cat_name":"Instant-Frozen-Food",
+        "cat_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPXfMPXmKTfmlXkSR1dLg_65_hkIBBRxq0bw&usqp=CAU"
+    },
+    {
+        "cat_id":6,
+        "cat_name":"Tea-Coffee-and-Health-Drinks",
+        "cat_image":"https://images.hindustantimes.com/img/2021/09/23/1600x900/caffeine_alternatives_1632382585473_1632382604680.jpg"
+    },
+    {
+        "cat_id":7,
+        "cat_name":"Bakery-Biscuits",
+        "cat_image":"https://www.karachibakery.com/images/newarrivals/new-arrival-diwali-46b.jpg"
+    },
+    {
+        "cat_id":8,
+        "cat_name":"Sweet-Tooth",
+        "cat_image":"https://www.bigbasket.com/media/uploads/p/l/40008516-2_7-london-dairy-ice-cream-mocha-almond-fudge-family-pack.jpg"
+    }
+
+
+]
